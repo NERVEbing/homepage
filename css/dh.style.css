@@ -1,0 +1,83 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.ui.menu .item img.logo {
+    margin-right: 1.5em;
+}
+
+.ui.menu {
+    border-radius: 0;
+}
+
+.ui.definition.table td:nth-child(2) {
+    border-left: 0;
+}
+
+.main.container {
+    width: 58em;
+    margin-top: 6em;
+    min-height: 100%;
+    padding-top: 0;
+    padding-right: 0.5em;
+    padding-bottom: 3em;
+}
+
+.main.container .FooterPush {
+    height: 7em;
+}
+
+.center-img {
+    display: block;
+    margin: auto;
+    height: 10rem;
+}
+
+.ui.search {
+    margin-top: 4em;
+}
+
+.ui.input {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.ui.s-buttons {
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 0;
+}
+
+.ui.button {
+    margin-top: 1em;
+}
+
+.prompt {
+    width: 60em;
+}
+
+.ui.footer.segment {
+    clear: both;
+    position: relative;
+    margin-top: -7em;
+    height: 7em;
+}
+
+.footer-inner {
+    margin-top: 2em;
+    text-align: center;
+}
+
+.ui.stables {
+    padding-top: 2em;
+}
+
+.ui.horizontal.divider {
+    margin-top: 5em;
+}
