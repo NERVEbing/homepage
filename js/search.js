@@ -50,7 +50,7 @@ document.onkeydown = function (e) {
 sGoogle.onclick = function () {
     p = 'https://www.google.com/search?q=';
     n = '';
-    s = 'https://www.google.com/webhp?gws_rd=cr&nfpr=1&newwindow=1&num=30';
+    s = 'https://www.google.com/ncr';
     doAction(p, n, s);
 }
 
@@ -58,7 +58,7 @@ sGoogle.onclick = function () {
 sBing.onclick = function () {
     p = 'https://www.bing.com/search?q=';
     n = '';
-    s = 'https://www.bing.com/?mkt=zh-CN';
+    s = 'https://www.bing.com/';
     doAction(p, n, s);
 }
 
@@ -98,6 +98,6 @@ sYouTube.onclick = function () {
 sBiliBili.onclick = function () {
     p = 'https://search.bilibili.com/all?keyword=';
     n = '';
-    s = 'https://search.bilibili.com'
+    s = 'https://bilibili.com'
     doAction(p, n, s);
 }
