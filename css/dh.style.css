@@ -14,10 +14,6 @@ body {
     border-radius: 0;
 }
 
-.ui.definition.table td:nth-child(2) {
-    border-left: 0;
-}
-
 .main.container {
     width: 58em;
     margin-top: 6em;
